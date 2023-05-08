@@ -1,4 +1,4 @@
-<h1 align="center"> Trybers and Dragos </h1>
+<h1 align="center"> Trybers and Dragons </h1>
 
 <p align="right">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
